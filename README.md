@@ -1,5 +1,3 @@
-# Project11_ecommerce_agentic_recommender
-A production-grade hybrid recommendation system using ALS, RAG, and LLM-powered multi-agent routing for personalized product discovery
 # 🛒 E-Commerce Intelligent Recommendation System
 
 ## 🎯 Problem Statement
