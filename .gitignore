@@ -1,0 +1,102 @@
+# ==============================
+
+# Python & Environment
+
+# ==============================
+
+.venv/
+venv/
+env/
+ENV/
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# ==============================
+
+# Logs
+
+# ==============================
+
+logs/
+*.log
+
+# ==============================
+
+# Data (VERY IMPORTANT)
+
+# ==============================
+
+data/raw/
+data/processed/
+data/features/
+data/chroma_db/
+
+# Allow small sample data if needed (optional)
+
+# !data/sample/
+
+# ==============================
+
+# Artifacts (Models & Mappings)
+
+# ==============================
+
+artifacts/
+*.pkl
+*.npz
+*.npy
+
+# ==============================
+
+# Vector DB / RAG Storage
+
+# ==============================
+
+chroma_db/
+*.db
+*.sqlite3
+
+# ==============================
+
+# Jupyter Notebook Checkpoints
+
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+
+# OS Files
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+
+# IDE / Editor
+
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+
+# Streamlit Cache
+
+# ==============================
+
+.streamlit/
+
+# ==============================
+
+# Temporary Files
+
+# ==============================
+
+*.tmp
+*.temp

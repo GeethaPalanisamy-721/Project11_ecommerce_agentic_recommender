@@ -1,0 +1,26 @@
+## Data Engineering & Core ML
+pandas
+numpy
+scipy
+scikit-learn
+
+# Collaborative Filtering
+scikit-surprise
+implicit
+
+#RAG & Vector Database
+sentence-transformers
+chromadb
+
+# Multi-Agent Framework & LLM
+crewai
+langchain
+
+# Jupyter & Visualization (For Notebooks)
+jupyter
+matplotlib
+seaborn
+
+# Utilities & Performance
+tqdm
+joblib
